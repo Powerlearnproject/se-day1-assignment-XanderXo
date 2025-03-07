@@ -9,6 +9,11 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+Mastering Complexity: Engineers developed methods like modular programming to manage the growing complexity of large software systems, making development and maintenance easier.
+
+Mastering Process: This milestone focused on creating structured development processes, such as Agile and Waterfall, to improve efficiency, quality, and consistency in software development.
+
+Mastering Machine: Software engineering adapted to leverage advances in hardware, optimizing performance and ensuring software ran efficiently across various machines and configurations.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 

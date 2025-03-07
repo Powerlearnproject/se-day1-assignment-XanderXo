@@ -39,6 +39,11 @@ testing - examine the software for any bugs and glitches
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall and Agile are two distinct methodologies for software development, each with its own approach to managing a project.
+
+*Waterfall* is a linear, sequential approach where each phase (requirements, design, development, testing, and deployment) is completed before moving on to the next. It’s less flexible, meaning changes are difficult once a phase is finished. Waterfall relies heavily on upfront planning and documentation. This method is suitable for projects with clear, well-defined requirements and minimal expected changes. For example, it would be appropriate for building a simple website or a regulated government system where the requirements are fixed and unlikely to change.
+
+*Agile*, on the other hand, is iterative and flexible. It divides the development process into smaller cycles called sprints, where each sprint focuses on developing a part of the product. Feedback is gathered after each sprint, allowing for continuous improvement and adjustments as the project progresses. Agile emphasizes collaboration, flexibility, and customer feedback, with minimal upfront documentation. It is ideal for projects where requirements may evolve, and frequent changes are expected. Examples of Agile applications include developing a mobile app or working on a software product for a startup, where regular user feedback shapes the direction of the development.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 

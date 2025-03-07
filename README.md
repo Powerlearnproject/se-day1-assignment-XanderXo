@@ -5,6 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Software engineering is a discipline within computer science focused on the development, testing, and maintenance of software.
 
 Reliability – It guarantees that software functions as intended, particularly for high-stakes applications such as healthcare and finance, without errors.
@@ -24,6 +25,16 @@ Mastering Process: This milestone focused on creating structured development pro
 Mastering Machine: Software engineering adapted to leverage advances in hardware, optimizing performance and ensuring software ran efficiently across various machines and configurations.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+planning - identify the software requirement or purpose and scope.
+
+ requirement analysis - identify the final user specification.
+
+design - building the framework.
+
+coding - converting software design into tangible code.
+
+testing - examine the software for any bugs and glitches
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.

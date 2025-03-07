@@ -5,7 +5,15 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software engineering is a discipline within computer science focused on the development, testing, and maintenance of software.
 
+Reliability – It guarantees that software functions as intended, particularly for high-stakes applications such as healthcare and finance, without errors.
+
+Efficiency – It helps streamline developer workflows while upholding high-quality standards.
+
+Scalability and Flexibility – It ensures that the system can accommodate a growing load without compromising performance.
+
+Security – It involves implementing protective measures like authentication, authorization, and encryption to safeguard user data.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
